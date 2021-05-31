@@ -1,0 +1,23 @@
+[
+        {
+            "name":"Lily",
+            "url":"https://images.unsplash.com/photo-1501973931234-5ac2964cd94a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bGlseXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
+            "desc":"The true lilies are erect perennial plants with leafy stems, scaly bulbs, usually narrow leaves, and solitary or clustered flowers. The flowers consist of six petal-like segments, which may form the shape of a trumpet, with a more or less elongated tube, as in the Madonna lily (Lilium candidum) and Easter lily (L. longiflorum). "
+         },
+
+         {
+            "name":"Rose",
+            "url":"https://www.desicomments.com/dc3/19/439319/4393191.jpg",
+            "desc":"Roses are erect, climbing, or trailing shrubs, the stems of which are usually copiously armed with prickles of various shapes and sizes, commonly called thorns. ... The rose plant's fleshy, sometimes edible, berrylike “fruit” (actually the floral cup) is known as a hip and usually ranges from red to orange in colour."
+         },
+         {
+            "name":"Tulip",
+            "url":"https://images.pexels.com/photos/548382/pexels-photo-548382.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "desc":"Tulipa (tulips) is a genus of spring-blooming perennial herbaceous bulbiferous geophytes, dying back after flowering to an underground storage bulb. Depending on the species, tulip plants can be between 10 and 70 cm (4 and 28 inches) high. ... In structure, the flower is generally cup or star shaped."
+         },
+         {
+            "name":"Sun Flower",
+            "url":"https://www.gardeningknowhow.com/wp-content/uploads/2007/08/sunflowers.jpg",
+            "desc":"Sunflower, Helianthus annuus, is an herbaceous annual plant in the family Asteraceae, grown for its seeds. The plant has a thick, hairy, erect stem which gives rise to a large flower head. ... Sunflowers are annual plants, harvested after one growing season and can reach 1–3.5 m (3.3–11.5 ft) in height."
+         }
+]
